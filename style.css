@@ -9,3 +9,11 @@ img {
   z-index: -1;
   opacity: 80%;
 }
+.hidden{
+  display: none;
+}
+
+#clock, #greeting, #todoForm{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
